@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 - 📫 Feel free to reach out to me
 
 ## My Skills
-- Programming Languages: [Java,JavaScript,C,[[C++](https://www.w3schools.com/cpp/](https://camo.githubusercontent.com/5491a6461a44f85e1c6ac34f8364dd3aa4ed57a442f89ff1a28fd991725ad438/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667))] 
+- Programming Languages: [Java,JavaScript,C,(https://camo.githubusercontent.com/5491a6461a44f85e1c6ac34f8364dd3aa4ed57a442f89ff1a28fd991725ad438/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667))]] 
 - Technologies: []
 - Tools & Platforms: [selenium webdriver,mocha,chai,Testng,nodejs,mysql,GIT]
 
