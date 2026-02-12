@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 - 📫 Feel free to reach out to me
 
 ## My Skills
-- Programming Languages: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Programming Languages: [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,idea,java,jenkins,maven,mysql,nodejs,selenium)](https://skillicons.dev)
 - Technologies: []
-- Tools & Platforms: [selenium webdriver,mocha,chai,Testng,nodejs,mysql,GIT]
+- Tools & Platforms: [![My Skills](https://skillicons.dev/icons?i=idea,java,jenkins,maven,mysql,nodejs,selenium)](https://skillicons.dev)
 
 ## Featured Projects
 - [Project 1](link) - Description
