@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 ## My Skills
 - Programming Languages: [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,java)](https://skillicons.dev)
 - Technologies: []
-- Tools & Platforms: [![My Skills](https://skillicons.dev/icons?i=postman,idea,java,jenkins,maven,mysql,nodejs,selenium,git)](https://skillicons.dev)[](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chai.png)
+- Tools & Platforms: [![My Skills](https://skillicons.dev/icons?i=postman,idea,java,jenkins,maven,mysql,nodejs,selenium,git)](https://skillicons.dev)[[](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chai.png)]
 
 ## Featured Projects
 - [Project 1](link) - Description
