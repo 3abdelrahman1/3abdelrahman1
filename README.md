@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 - 📫 Feel free to reach out to me
 
 ## My Skills
-- Programming Languages: [](https://camo.githubusercontent.com/285c02f902be30b9fca74a05d71d8fbd45658be33c5b99fb340ff8f78b3d1e51/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667) 
+- Programming Languages: [](https://skillicons.dev/icons?i=all)
 - Technologies: []
 - Tools & Platforms: [selenium webdriver,mocha,chai,Testng,nodejs,mysql,GIT]
 
