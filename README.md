@@ -1,17 +1,17 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and building amazing projects.
+Welcome to my GitHub profile! I'm a passionate junior software testing engineer always happy to learn.
 
 ## About Me
-- 🔭 I'm currently working on interesting projects
+- 🔭 I'm currently learning Automation Testing
 - 🌱 I'm continuously learning and exploring new technologies
 - 💡 I love collaborating and sharing knowledge
 - 📫 Feel free to reach out to me
 
 ## My Skills
-- Programming Languages: [Add your languages here]
-- Technologies: [Add your tech stack here]
-- Tools & Platforms: [Add your tools here]
+- Programming Languages: [Java,JavaScript,C,C++] 
+- Technologies: []
+- Tools & Platforms: [selenium webdriver,mocha,chai,Testng,nodejs,mysql,GIT]
 
 ## Featured Projects
 - [Project 1](link) - Description
@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing p
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=3abdelrahman1&show_icons=true&theme=default)
 
 ## Get In Touch
-- LinkedIn: [Your LinkedIn](link)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/abdelrahman-adel-217713312)
 - Twitter: [Your Twitter](link)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](abdelrahman1761@outlook.com)
 
 ---
 
