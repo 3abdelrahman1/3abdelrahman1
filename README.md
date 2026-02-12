@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 - 📫 Feel free to reach out to me
 
 ## My Skills
-- Programming Languages: [c++]([https://skillicons.dev/icons?i=all](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg))
+- Programming Languages: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - Technologies: []
 - Tools & Platforms: [selenium webdriver,mocha,chai,Testng,nodejs,mysql,GIT]
 
