@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 ## My Skills
 - Programming Languages: [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,idea,java,jenkins,maven,mysql,nodejs,selenium)](https://skillicons.dev)
 - Technologies: []
-- Tools & Platforms: [![My Skills](https://skillicons.dev/icons?i=idea,java,jenkins,maven,mysql,nodejs,selenium)](https://skillicons.dev)
+- Tools & Platforms: [![My Skills](https://skillicons.dev/icons?i=postman,idea,java,jenkins,maven,mysql,nodejs,selenium)](https://skillicons.dev)
 
 ## Featured Projects
 - [Project 1](link) - Description
@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=3abdelrahman1&show_icons=true&theme=default)
 
 ## Get In Touch
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/abdelrahman-adel-217713312)
+- LinkedIn: [www.linkedin.com/in/abdelrahman-adel-217713312]([![My Skills](https://skillicons.dev/icons?i=postman,idea,java,jenkins,maven,mysql,nodejs,selenium)](https://skillicons.dev))
 - Twitter: [Your Twitter](link)
-- Email: [your.email@example.com](abdelrahman1761@outlook.com)
+- Email: [abdelrahman1761@outlook.com](abdelrahman1761@outlook.com)
 
 ---
 
