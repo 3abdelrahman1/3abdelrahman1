@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 </div>
 
 ## Featured Projects
-- [DemoBlaze_Project]((https://github.com/3abdelrahman1/Demoblaze_Automation_Testing.git)) 
+- [DemoBlaze_Project](https://github.com/3abdelrahman1/Demoblaze_Automation_Testing.git)
 - [Project 2](link) - Description
 
 ## GitHub Stats
