@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 - 📫 Feel free to reach out to me
 
 ## My Skills
-- Programming Languages: [Java,JavaScript,C,C++] 
+- Programming Languages: [Java,JavaScript,C,[C++](https://www.w3schools.com/cpp/)] 
 - Technologies: []
 - Tools & Platforms: [selenium webdriver,mocha,chai,Testng,nodejs,mysql,GIT]
 
