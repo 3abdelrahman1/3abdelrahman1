@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 ## My Skills
 - Programming Languages: [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,java)](https://skillicons.dev)
 - Technologies: []
-- Tools & Platforms: [![My Skills](https://skillicons.dev/icons?i=postman,idea,java,jenkins,maven,mysql,nodejs,selenium)](https://skillicons.dev)
+- Tools & Platforms: [![My Skills](https://skillicons.dev/icons?i=postman,idea,java,jenkins,maven,mysql,nodejs,selenium,Git)](https://skillicons.dev)
 
 ## Featured Projects
 - [Project 1](link) - Description
