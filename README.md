@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate junior software testing engineer 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=3abdelrahman1&show_icons=true&theme=default)
 
 ## Get In Touch
-- LinkedIn: [www.linkedin.com/in/abdelrahman-adel-217713312][![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+- LinkedIn: [www.linkedin.com/in/abdelrahman-adel-217713312][![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/abdelrahman-adel-217713312)
 - Email: [abdelrahman1761@outlook.com](abdelrahman1761@outlook.com)
 
 ---
